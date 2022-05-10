@@ -17,7 +17,7 @@ export default function FComponent(props: Props) {
     const handleReset = () =>
         setCount(count => count = 0);
 
-    // useEffect(() => setCount ( count => count + 2) , [ ] ) ;    
+    useEffect(() => setCount ( count => count + 2) , [ ] ) ;    
 
   return (
     <div>
