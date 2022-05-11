@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Header from '../components/Header'
+import Header from '../components/Header/Header'
 import CountView from '../views/CountView'
 import HomeView from '../views/HomeView'
 

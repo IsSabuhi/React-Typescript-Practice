@@ -1,6 +1,6 @@
 import React from 'react'
-import CComponent from '../components/CComponent'
-import FComponent from '../components/FComponent'
+import CComponent from '../components/Count/CComponent'
+import FComponent from '../components/Count/FComponent'
 
 export default function CountView() {
   return (
